@@ -1,0 +1,38 @@
+body{
+    background-image: url(1.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;  
+    height:auto;
+    margin: 0; 
+}
+.text-one {
+    color:rgb(241, 6, 6)  
+}
+.text-sold{
+    text-align: center;
+    margin: 0;
+    padding-top: 15px;
+    font-family: 'Babylonica', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Permanent Marker', cursive;
+font-size: 20px;
+font-family: 'Bebas Neue', cursive;
+    font-family: 'Pacifico', cursive;
+}
+.posfravlenie {
+    word-spacing: 10px;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Pacifico', cursive;
+}
+.aftors{
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+}
